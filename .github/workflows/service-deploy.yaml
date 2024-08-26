@@ -33,3 +33,4 @@ jobs:
     
           ssh -i mykey.pem ubuntu@$EC2_PUBLIC_IP "bash ~/app/deploy.sh"
           
+          

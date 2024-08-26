@@ -27,4 +27,4 @@ nohup python app.py > app.log 2>&1 &
 # Deactivate the virtual environment
 deactivate
 
-echo "Deployment completed successfully!"
+echo "Deployment completed successfully"

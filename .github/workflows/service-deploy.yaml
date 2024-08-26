@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  EC2_PUBLIC_IP: 16.16.209.39 #
+  EC2_PUBLIC_IP: 51.20.248.77 #
   SSH_PRIVATE_KEY: ${{ secrets.NET_PKEY }}
 
 jobs:

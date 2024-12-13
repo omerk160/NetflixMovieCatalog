@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Navigate to the app directory
-cd ~/app
+#cd ~/app
 
 # Create a virtual environment if it doesn't exist
 if [ ! -d "venv" ]; then
